@@ -1,0 +1,20 @@
+{
+  "name": "homework22",
+  "version": "1.0.0",
+  "description": "hometask22",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasiia Kholod",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^7.0.0",
+    "@fastify/static": "^6.10.2",
+    "fastify": "^3.29.5",
+    "fastify-cors": "^6.1.0",
+    "fastify-static": "^4.7.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7"
+  }
+}
